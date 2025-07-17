@@ -1,16 +1,19 @@
-# crypto_app
+# Crypto App (Flutter)
 
-A new Flutter project.
+A simple Flutter application to display cryptocurrency data fetched from an API.
+
+## Features
+- Splash screen with a button to navigate to the home screen.
+- Home screen displays a list of cryptocurrencies with prices, charts, and details.
+- Data is fetched from a live API and displayed in a clean UI.
+- Navigation between screens implemented using Flutter's Navigator.
+
+## Screenshots
+You can find HomeScreen in the same Folder
 
 ## Getting Started
+To run the app locally:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+   ```bash
+   git clone <https://github.com/SilverN13/Crypto-App-API-Flutter.git>
